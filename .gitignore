@@ -1,0 +1,88 @@
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Build directories
+dist/
+build/
+out/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.lnk
+
+# Python specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Java specific
+*.class
+*.war
+*.ear
+target/
+*.jar
+
+# Ruby specific
+*.gem
+*.rbc
+.ruby-version
+.ruby-gemset
+
+# Go specific
+*.out
+
+# JavaScript specific
+*.map
+
+# Compiled files
+*.o
+*.out
+*.so
+
+# Packaging
+*.dmg
+*.exe
+*.msi
+*.deb
+*.rpm
+*.tar.gz
+*.zip
+*.7z
+
+# Database files
+*.sqlite
+*.sql
+*.sqlite3
+
+# System files
+.trash
+.idea/
